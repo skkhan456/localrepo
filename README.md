@@ -14,3 +14,6 @@
 # git branch -M main (to rename branch)
 
 # git push origin main
+
+# hello my name is salman 
+# and i wanted to do something big in my life and chieve my goal
